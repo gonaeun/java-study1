@@ -5,13 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2e75f066-080a-4d62-b6c2-05aca439b576" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/java-start/src/variable/Var2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-start/src/variable/Var3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-start/src/variable/Var4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-start/src/variable/Var5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-start/src/variable/Var6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-start/src/variable/Var7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-start/src/variable/Var8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-start/src/variable/ex/Var3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-start/src/variable/ex/VarEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-start/src/variable/ex/VarEx1Question.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-start/src/variable/ex/VarEx2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-start/src/variable/Var1.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-start/src/variable/Var1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-start/src/variable/Var6.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-start/src/variable/Var6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-study1/variable/Var1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-study1/variable/Var1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-study1/variable/Var6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-study1/variable/Var6.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,12 +31,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 8
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2mm9t0wNc4iLZ6JypZpxaALhlQ7" />
   <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
@@ -44,45 +48,25 @@
     "Application.Var3.executor": "Run",
     "Application.Var5.executor": "Run",
     "Application.Var6.executor": "Run",
+    "Application.Var7.executor": "Run",
+    "Application.Var8.executor": "Run",
+    "Application.VarEx1.executor": "Run",
+    "Application.VarEx1Question.executor": "Run",
+    "Application.VarEx2.executor": "Run",
+    "Application.variable.ex.VarEx1Question.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/USER/Desktop/java-study1"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Var6">
-    <configuration name="Var1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="variable.Var1" />
-      <module name="java-study1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="variable.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Var2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="variable.Var2" />
-      <module name="java-study1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="variable.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.VarEx3">
     <configuration name="Var3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="variable.Var3" />
+      <option name="MAIN_CLASS_NAME" value="variable.ex.Var3" />
       <module name="java-study1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="variable.*" />
+          <option name="PATTERN" value="variable.ex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +74,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Var5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="variable.Var5" />
+    <configuration name="VarEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="variable.ex.VarEx1" />
       <module name="java-study1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="variable.*" />
+          <option name="PATTERN" value="variable.ex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +87,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Var6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="variable.Var6" />
+    <configuration name="VarEx2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="variable.ex.VarEx2" />
       <module name="java-study1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="variable.*" />
+          <option name="PATTERN" value="variable.ex.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VarEx3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="variable.ex.VarEx3" />
+      <module name="java-study1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="variable.ex.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="variable.ex.VarEx1Question" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="variable.ex.VarEx1Question" />
+      <module name="java-study1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="variable.ex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Var6" />
-        <item itemvalue="Application.Var5" />
+        <item itemvalue="Application.VarEx3" />
         <item itemvalue="Application.Var3" />
-        <item itemvalue="Application.Var2" />
-        <item itemvalue="Application.Var1" />
+        <item itemvalue="Application.VarEx2" />
+        <item itemvalue="Application.VarEx1" />
+        <item itemvalue="Application.variable.ex.VarEx1Question" />
       </list>
     </recent_temporary>
   </component>
