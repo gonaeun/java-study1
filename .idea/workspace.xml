@@ -5,16 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2e75f066-080a-4d62-b6c2-05aca439b576" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/java-start/src/variable/Var7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-start/src/variable/Var8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-start/src/variable/ex/Var3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-start/src/variable/ex/VarEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-start/src/variable/ex/VarEx1Question.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-start/src/variable/ex/VarEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-start/src/operator/Assign1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-start/src/operator/Comp1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-start/src/operator/Comp2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-start/src/operator/Logical1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-start/src/operator/Logical2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-start/src/operator/Operator1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-start/src/operator/Operator2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-start/src/operator/Operator3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-start/src/operator/Operator4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-start/src/operator/OperatorAdd1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-start/src/operator/OperatorAdd2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-start/src/operator/ex/OperationEX3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-start/src/operator/ex/OperationEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-start/src/operator/ex/OperationEx2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-start/src/variable/Var6.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-start/src/variable/Var6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-study1/variable/Var1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-study1/variable/Var1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-study1/variable/Var6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-study1/variable/Var6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-start/src/HelloJava.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-start/src/HelloJava.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-study1/variable/ex/Var3.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +50,20 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Assign1.executor": "Run",
+    "Application.Comp1.executor": "Run",
+    "Application.Comp2.executor": "Run",
+    "Application.Logical1.executor": "Run",
+    "Application.Logical2.executor": "Run",
+    "Application.OperationEX3.executor": "Run",
+    "Application.OperationEx1.executor": "Run",
+    "Application.OperationEx2.executor": "Run",
+    "Application.Operator1.executor": "Run",
+    "Application.Operator2.executor": "Run",
+    "Application.Operator3.executor": "Run",
+    "Application.Operator4.executor": "Run",
+    "Application.OperatorAdd1.executor": "Run",
+    "Application.OperatorAdd2.executor": "Run",
     "Application.Var1.executor": "Run",
     "Application.Var2.executor": "Run",
     "Application.Var3.executor": "Run",
@@ -53,6 +74,7 @@
     "Application.VarEx1.executor": "Run",
     "Application.VarEx1Question.executor": "Run",
     "Application.VarEx2.executor": "Run",
+    "Application.VarEx3.executor": "Run",
     "Application.variable.ex.VarEx1Question.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -60,13 +82,13 @@
     "last_opened_file_path": "C:/Users/USER/Desktop/java-study1"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.VarEx3">
-    <configuration name="Var3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="variable.ex.Var3" />
+  <component name="RunManager" selected="Application.OperationEX3">
+    <configuration name="Assign1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="operator.Assign1" />
       <module name="java-study1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="variable.ex.*" />
+          <option name="PATTERN" value="operator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VarEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="variable.ex.VarEx1" />
+    <configuration name="Logical2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="operator.Logical2" />
       <module name="java-study1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="variable.ex.*" />
+          <option name="PATTERN" value="operator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +109,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VarEx2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="variable.ex.VarEx2" />
+    <configuration name="OperationEX3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="operator.ex.OperationEX3" />
       <module name="java-study1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="variable.ex.*" />
+          <option name="PATTERN" value="operator.ex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +122,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VarEx3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="variable.ex.VarEx3" />
+    <configuration name="OperationEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="operator.ex.OperationEx1" />
       <module name="java-study1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="variable.ex.*" />
+          <option name="PATTERN" value="operator.ex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,12 +135,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="variable.ex.VarEx1Question" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="variable.ex.VarEx1Question" />
+    <configuration name="OperationEx2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="operator.ex.OperationEx2" />
       <module name="java-study1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="variable.ex.*" />
+          <option name="PATTERN" value="operator.ex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,11 +150,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.VarEx3" />
-        <item itemvalue="Application.Var3" />
-        <item itemvalue="Application.VarEx2" />
-        <item itemvalue="Application.VarEx1" />
-        <item itemvalue="Application.variable.ex.VarEx1Question" />
+        <item itemvalue="Application.OperationEX3" />
+        <item itemvalue="Application.OperationEx2" />
+        <item itemvalue="Application.OperationEx1" />
+        <item itemvalue="Application.Assign1" />
+        <item itemvalue="Application.Logical2" />
       </list>
     </recent_temporary>
   </component>
@@ -146,5 +168,21 @@
       <updated>1727671096211</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/java-start/src/operator/OperatorAdd2.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/java-start/src/operator/OperatorAdd2.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
