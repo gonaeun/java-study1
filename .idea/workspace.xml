@@ -5,14 +5,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2e75f066-080a-4d62-b6c2-05aca439b576" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/java-start/src/condition/ex/CondOpEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-start/src/condition/ex/EvenOddEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-start/src/condition/ex/GradeSwitchEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-start/src/condition/ex/MoveRateEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-start/src/loop/While1_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-start/src/loop/While1_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-start/src/loop/While2_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-start/src/loop/Break1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-start/src/loop/Break2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-start/src/loop/Break3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-start/src/loop/Continue1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-start/src/loop/DoWhile1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-start/src/loop/DoWhile2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-start/src/loop/For1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-start/src/loop/For2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-start/src/loop/Nested1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-start/src/loop/While2_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-start/src/loop/While2_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-start/src/loop/ex/ForEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-start/src/loop/ex/ForEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-start/src/loop/ex/ForEx3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-start/src/loop/ex/NestedEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-start/src/loop/ex/NestedEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-start/src/loop/ex/WhileEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-start/src/loop/ex/WhileEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-start/src/loop/ex/WhileEx3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-start/src/loop/While2_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-start/src/loop/While2_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-study1/loop/While1_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-study1/loop/While1_2.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,14 +56,25 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Assign1.executor": "Run",
+    "Application.Break1.executor": "Run",
+    "Application.Break2.executor": "Run",
+    "Application.Break3.executor": "Run",
     "Application.Comp1.executor": "Run",
     "Application.Comp2.executor": "Run",
     "Application.CondOp1.executor": "Run",
     "Application.CondOp2.executor": "Run",
     "Application.CondOpEx.executor": "Run",
+    "Application.Continue1.executor": "Run",
     "Application.DistanceEX.executor": "Run",
+    "Application.DoWhile1.executor": "Run",
+    "Application.DoWhile2.executor": "Run",
     "Application.EvenOddEx.executor": "Run",
     "Application.ExchangeRateEx.executor": "Run",
+    "Application.For1.executor": "Run",
+    "Application.For2.executor": "Run",
+    "Application.ForEx1.executor": "Run",
+    "Application.ForEx2.executor": "Run",
+    "Application.ForEx3.executor": "Run",
     "Application.GradeSwitchEx.executor": "Run",
     "Application.If1.executor": "Run",
     "Application.If2.executor": "Run",
@@ -59,6 +84,9 @@
     "Application.Logical1.executor": "Run",
     "Application.Logical2.executor": "Run",
     "Application.MoveRateEx.executor": "Run",
+    "Application.Nested1.executor": "Run",
+    "Application.NestedEx1.executor": "Run",
+    "Application.NestedEx2.executor": "Run",
     "Application.OperationEX3.executor": "Run",
     "Application.OperationEx1.executor": "Run",
     "Application.OperationEx2.executor": "Run",
@@ -86,6 +114,11 @@
     "Application.VarEx3.executor": "Run",
     "Application.While1_1.executor": "Run",
     "Application.While1_2.executor": "Run",
+    "Application.While2_1.executor": "Run",
+    "Application.While2_3.executor": "Run",
+    "Application.WhileEx1.executor": "Run",
+    "Application.WhileEx2.executor": "Run",
+    "Application.WhileEx3.executor": "Run",
     "Application.variable.ex.VarEx1Question.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -95,17 +128,18 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="loop.ex" />
       <recent name="loop" />
       <recent name="condition" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.While1_2">
-    <configuration name="CondOpEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="condition.ex.CondOpEx" />
+  <component name="RunManager" selected="Application.NestedEx2">
+    <configuration name="ForEx2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loop.ex.ForEx2" />
       <module name="java-study1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="condition.ex.*" />
+          <option name="PATTERN" value="loop.ex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,12 +147,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EvenOddEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="condition.ex.EvenOddEx" />
+    <configuration name="ForEx3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loop.ex.ForEx3" />
       <module name="java-study1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="condition.ex.*" />
+          <option name="PATTERN" value="loop.ex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,12 +160,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GradeSwitchEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="condition.ex.GradeSwitchEx" />
+    <configuration name="NestedEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loop.ex.NestedEx1" />
       <module name="java-study1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="condition.ex.*" />
+          <option name="PATTERN" value="loop.ex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,12 +173,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="While1_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="loop.While1_1" />
+    <configuration name="NestedEx2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loop.ex.NestedEx2" />
       <module name="java-study1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="loop.*" />
+          <option name="PATTERN" value="loop.ex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -152,12 +186,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="While1_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="loop.While1_2" />
+    <configuration name="WhileEx3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loop.ex.WhileEx3" />
       <module name="java-study1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="loop.*" />
+          <option name="PATTERN" value="loop.ex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -167,11 +201,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.While1_2" />
-        <item itemvalue="Application.While1_1" />
-        <item itemvalue="Application.EvenOddEx" />
-        <item itemvalue="Application.CondOpEx" />
-        <item itemvalue="Application.GradeSwitchEx" />
+        <item itemvalue="Application.NestedEx2" />
+        <item itemvalue="Application.NestedEx1" />
+        <item itemvalue="Application.ForEx3" />
+        <item itemvalue="Application.WhileEx3" />
+        <item itemvalue="Application.ForEx2" />
       </list>
     </recent_temporary>
   </component>
