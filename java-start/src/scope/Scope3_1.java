@@ -1,6 +1,6 @@
 package scope;
 
-public class Scope3 {
+public class Scope3_1 {
     public static void main(String[] args) {
         // 스코프의 존재 이유
 
