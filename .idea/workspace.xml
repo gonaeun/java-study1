@@ -5,13 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2e75f066-080a-4d62-b6c2-05aca439b576" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/java-start/src/scanner/ex/ChangeVarEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-start/src/scanner/ex/ScannerEx4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-start/src/scanner/ex/ScannerEx5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-start/src/scanner/ex/ScannerWhileEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-start/src/scanner/ex/ScannerWhileEx2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-start/src/scanner/ex/ScannerWhileEx3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-start/src/scanner/ex/ScannerWhileEx4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-start/src/array/Array1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-start/src/array/ArrayRef1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-start/src/array/ArrayRef2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-start/src/array/ArrayRef3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-start/src/array/ArrayRef4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,6 +39,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Array1.executor": "Run",
+    "Application.ArrayRef1.executor": "Run",
+    "Application.ArrayRef2.executor": "Run",
+    "Application.ArrayRef3.executor": "Run",
     "Application.Assign1.executor": "Run",
     "Application.Break1.executor": "Run",
     "Application.Break2.executor": "Run",
@@ -139,20 +141,20 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="array" />
       <recent name="scanner.ex" />
       <recent name="scope" />
       <recent name="loop.ex" />
       <recent name="loop" />
-      <recent name="condition" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ScannerWhileEx4">
-    <configuration name="ScannerEx5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="scanner.ex.ScannerEx5" />
+  <component name="RunManager" selected="Application.ArrayRef4">
+    <configuration name="Array1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.Array1" />
       <module name="java-study1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="scanner.ex.*" />
+          <option name="PATTERN" value="array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -160,12 +162,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ScannerWhileEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="scanner.ex.ScannerWhileEx1" />
+    <configuration name="ArrayRef1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.ArrayRef1" />
       <module name="java-study1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="scanner.ex.*" />
+          <option name="PATTERN" value="array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -173,12 +175,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ScannerWhileEx2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="scanner.ex.ScannerWhileEx2" />
+    <configuration name="ArrayRef2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.ArrayRef2" />
       <module name="java-study1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="scanner.ex.*" />
+          <option name="PATTERN" value="array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -186,12 +188,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ScannerWhileEx3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="scanner.ex.ScannerWhileEx3" />
+    <configuration name="ArrayRef3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.ArrayRef3" />
       <module name="java-study1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="scanner.ex.*" />
+          <option name="PATTERN" value="array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -199,12 +201,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ScannerWhileEx4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="scanner.ex.ScannerWhileEx4" />
+    <configuration name="ArrayRef4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.ArrayRef4" />
       <module name="java-study1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="scanner.ex.*" />
+          <option name="PATTERN" value="array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -214,11 +216,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ScannerWhileEx4" />
-        <item itemvalue="Application.ScannerWhileEx3" />
-        <item itemvalue="Application.ScannerWhileEx2" />
-        <item itemvalue="Application.ScannerWhileEx1" />
-        <item itemvalue="Application.ScannerEx5" />
+        <item itemvalue="Application.ArrayRef4" />
+        <item itemvalue="Application.ArrayRef3" />
+        <item itemvalue="Application.ArrayRef2" />
+        <item itemvalue="Application.ArrayRef1" />
+        <item itemvalue="Application.Array1" />
       </list>
     </recent_temporary>
   </component>
