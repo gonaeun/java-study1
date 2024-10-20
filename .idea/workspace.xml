@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2e75f066-080a-4d62-b6c2-05aca439b576" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/java-start/src/method/Method1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-start/src/method/Method1Ref.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-start/src/method/Method2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-start/src/method/MethodReturn1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-start/src/method/MethodReturn2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-start/src/method/Method1Ref.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-start/src/method/Method1Ref.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,6 +95,9 @@
     "Application.Logical2.executor": "Run",
     "Application.Method1.executor": "Run",
     "Application.Method1Ref.executor": "Run",
+    "Application.Method2.executor": "Run",
+    "Application.MethodReturn1.executor": "Run",
+    "Application.MethodReturn2.executor": "Run",
     "Application.MoveRateEx.executor": "Run",
     "Application.Nested1.executor": "Run",
     "Application.NestedEx1.executor": "Run",
@@ -167,33 +172,7 @@
       <recent name="scope" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Method1Ref">
-    <configuration name="ArrayEx7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.ex.ArrayEx7" />
-      <module name="java-study1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="array.ex.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ArrayEx8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.ex.ArrayEx8" />
-      <module name="java-study1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="array.ex.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.MethodReturn2">
     <configuration name="Method1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="method.Method1" />
       <module name="java-study1" />
@@ -220,12 +199,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProductAdminEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.ex.ProductAdminEx" />
+    <configuration name="Method2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="method.Method2" />
       <module name="java-study1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="array.ex.*" />
+          <option name="PATTERN" value="method.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MethodReturn1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="method.MethodReturn1" />
+      <module name="java-study1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="method.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MethodReturn2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="method.MethodReturn2" />
+      <module name="java-study1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="method.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -235,11 +240,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MethodReturn2" />
+        <item itemvalue="Application.MethodReturn1" />
+        <item itemvalue="Application.Method2" />
         <item itemvalue="Application.Method1Ref" />
         <item itemvalue="Application.Method1" />
-        <item itemvalue="Application.ProductAdminEx" />
-        <item itemvalue="Application.ArrayEx8" />
-        <item itemvalue="Application.ArrayEx7" />
       </list>
     </recent_temporary>
   </component>
