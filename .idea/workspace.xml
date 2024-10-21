@@ -5,11 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2e75f066-080a-4d62-b6c2-05aca439b576" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/java-start/src/method/Method2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-start/src/method/MethodReturn1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-start/src/method/MethodReturn2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-start/src/method/MethodCasting1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-start/src/method/MethodCasting2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-start/src/method/MethodValue0.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-start/src/method/MethodValue1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-start/src/method/MethodValue2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-start/src/method/MethodValue3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-start/src/method/Method1Ref.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-start/src/method/Method1Ref.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,8 +98,14 @@
     "Application.Method1.executor": "Run",
     "Application.Method1Ref.executor": "Run",
     "Application.Method2.executor": "Run",
+    "Application.MethodCasting1.executor": "Run",
+    "Application.MethodCasting2.executor": "Run",
     "Application.MethodReturn1.executor": "Run",
     "Application.MethodReturn2.executor": "Run",
+    "Application.MethodValue0.executor": "Run",
+    "Application.MethodValue1.executor": "Run",
+    "Application.MethodValue2.executor": "Run",
+    "Application.MethodValue3.executor": "Run",
     "Application.MoveRateEx.executor": "Run",
     "Application.Nested1.executor": "Run",
     "Application.NestedEx1.executor": "Run",
@@ -172,9 +180,9 @@
       <recent name="scope" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MethodReturn2">
-    <configuration name="Method1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="method.Method1" />
+  <component name="RunManager" selected="Application.MethodCasting2">
+    <configuration name="MethodCasting1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="method.MethodCasting1" />
       <module name="java-study1" />
       <extension name="coverage">
         <pattern>
@@ -186,8 +194,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Method1Ref" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="method.Method1Ref" />
+    <configuration name="MethodCasting2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="method.MethodCasting2" />
       <module name="java-study1" />
       <extension name="coverage">
         <pattern>
@@ -199,8 +207,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Method2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="method.Method2" />
+    <configuration name="MethodValue1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="method.MethodValue1" />
       <module name="java-study1" />
       <extension name="coverage">
         <pattern>
@@ -212,8 +220,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MethodReturn1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="method.MethodReturn1" />
+    <configuration name="MethodValue2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="method.MethodValue2" />
       <module name="java-study1" />
       <extension name="coverage">
         <pattern>
@@ -225,8 +233,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MethodReturn2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="method.MethodReturn2" />
+    <configuration name="MethodValue3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="method.MethodValue3" />
       <module name="java-study1" />
       <extension name="coverage">
         <pattern>
@@ -240,11 +248,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MethodReturn2" />
-        <item itemvalue="Application.MethodReturn1" />
-        <item itemvalue="Application.Method2" />
-        <item itemvalue="Application.Method1Ref" />
-        <item itemvalue="Application.Method1" />
+        <item itemvalue="Application.MethodCasting2" />
+        <item itemvalue="Application.MethodCasting1" />
+        <item itemvalue="Application.MethodValue2" />
+        <item itemvalue="Application.MethodValue3" />
+        <item itemvalue="Application.MethodValue1" />
       </list>
     </recent_temporary>
   </component>
